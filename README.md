@@ -1,0 +1,2 @@
+# webinar_waitlist_sample
+2015/12/3に行われたWebinarでデモに使用したサンプルアプリです
